@@ -9,4 +9,11 @@ npm i -D babel-{core,loader} babel-preset-react
 npm i -D webpack webpack-dev-server html-webpack-plugin
 ```
 
-# 3. Profit!
+# 3. Make changes
+
+# 4. Build and Run
+
+```
+npm run build
+npm run start
+```
