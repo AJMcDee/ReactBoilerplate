@@ -17,3 +17,5 @@ npm i -D webpack webpack-dev-server html-webpack-plugin
 npm run build
 npm run start
 ```
+# 5. For GitHub pages
+
