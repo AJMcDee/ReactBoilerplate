@@ -19,3 +19,7 @@ npm run start
 ```
 # 5. For GitHub pages
 
+```
+git checkout -b gh-pages
+git subtree push --prefix dist origin gh-pages
+```
